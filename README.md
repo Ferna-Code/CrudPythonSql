@@ -14,6 +14,7 @@ Este es un proyecto simple de consola que permite gestionar clientes con operaci
 - `cliente.py`: Define la clase `Cliente` (modelo/entidad).
 - `cliente_dao.py`: Contiene las operaciones de base de datos (DAO).
 - `conexion.py`: Administra la conexión con MySQL utilizando un pool.
+- `zona_fit_app.py`: Gestiona el acceso a las diferentes opciones del programa
 
 ## 📦 Funcionalidades
 
